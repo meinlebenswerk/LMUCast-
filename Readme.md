@@ -16,26 +16,26 @@ Once installed, the extension is automatically loaded, when you open an LMUCast 
 The changes are only cosmetic and fully client-side, so no, the extension does not interact with the LMU's servers or anything like that.\
 
 ## How to install
-### Prerequisites
+
+### Via the ChromeWebStore
+I published this extension to the Chrome Webstore as well and since it's passed inspection, you can download it [here](https://chrome.google.com/webstore/detail/lmucast%20/fbkgejlglbgmlkhjocopjhialdaambkc)!
+
+### From Source
 You'll either need to have git installed, or be able to download this repo as a zip file :)
-### Getting the package
-#### Via Git
+#### Getting the package
+##### Via Git
 Recommended way, simpler to update.
 
 ```
 git clone https://github.com/meinlebenswerk/LMUCast-.git
 ```
-#### Via Download
+##### Via Download
 Click the code icon in the right corner and then select download zip.
 Unpack the zip somewhere and you're ready to install.
 
-### Installing the extension
+##### Installing the extension
 - Open Chrome
 - Go to settings and then `extensions`
 - Enable Developer mode in the right corner
 - click on `load unpacked extension` and select the folder where you downloaded/unpacked the extension to
 - the extension should show up and be ready to use
-
-### The official way
-I published this extension to the Chrome Webstore as well and It'll be available there, once it passed inspection.
-Once it's ready, it can be found [here](https://chrome.google.com/webstore/detail/fbkgejlglbgmlkhjocopjhialdaambkc/preview?hl=de&authuser=0).
